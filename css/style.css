@@ -48,7 +48,7 @@
 
 body {
     font-family: "Poppins", sans-serif;
-  background: url(../images/bg/bg_indoor_1.png)no-repeat center center fixed; 
+  background: url(../img/bg/bg_indoor_1.png)no-repeat center center fixed; 
 	-webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -149,7 +149,7 @@ button {
 }
 
 .grabbing {
-    cursor: url(../images/owl-carousel/grabbing.png) 8 8, move;
+    cursor: url(../img/owl-carousel/grabbing.png) 8 8, move;
 }
 
 .button {
@@ -831,7 +831,7 @@ blockquote {
 /* About Author Box */
 
 .about-author {
-	background: url(images/bg/bg_lmstreet_1.png)no-repeat center center fixed;
+	background: url(img/bg/bg_lmstreet_1.png)no-repeat center center fixed;
    /* background: #fafafa;*/
     width: 100%;
     padding: 35px 25px;
@@ -1029,7 +1029,7 @@ blockquote {
 
 .footer {
 	background-color:rgb(54, 54, 54);
-   /* background: url(../images/bg/pattern-bg.png);
+   /* background: url(../img/bg/pattern-bg.png);
     background-repeat: repeat;*/
     text-align: center;
     padding: 30px 0;
