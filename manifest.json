@@ -1,0 +1,21 @@
+{
+    "short_name": "Exile's Blog",
+    "name": "Exile1201's Blog",
+    "icons": [
+        {
+        "src": "./images/pic/texas.jpg",
+        "type": "image/jpg",
+        "sizes": "192x192"
+        },
+        {
+        "src": "./images/pic/texas.jpg",
+        "type": "image/png",
+        "sizes": "512x512"
+        }
+    ],
+    "start_url": "/blog/index.html",
+    "background_color": "#363636",
+    "display": "standalone",
+    "scope": "/blog/",
+    "theme_color": "#222222ff"
+  }
